@@ -12,5 +12,9 @@ def calcular_volumen_cubo(lado):
 	
 #print(f"El area del cuadrado es {calcular_area_cuadrado(4)}")
 
+def calcular_area_esfera (radio):
+	area= Match.pi*radio**2
+	return area
+
 	 
 	
