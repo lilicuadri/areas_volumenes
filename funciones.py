@@ -7,8 +7,8 @@ def calcular_volumen_paralelepipedo(base,altura, alto):
 	return volumen
 
 def calcular_volumen_cubo(lado):
-    volumen=lado**3
-    return volumen
+	volumen=lado**3
+	return volumen
 	
 #print(f"El area del cuadrado es {calcular_area_cuadrado(4)}")
 
