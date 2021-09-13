@@ -7,11 +7,11 @@ def calcular_volumen_paralelepipedo(base,altura, alto):
 	return volumen
 
 def calular_area_rombo (Diagonal,diagonal1 ):
-  area=((Diagonal*diagonal1)/2)
-  return area
+	area=((Diagonal*diagonal1)/2)
+	return area
 
 def calcular_volumen_cubo(lado):
-  volumen=lado**3
+ 	volumen=lado**3
 	return volumen
 	
 
